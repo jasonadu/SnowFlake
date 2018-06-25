@@ -11,6 +11,7 @@ SnowFlake算法用来生成64位的ID，刚好可以用long整型存储，能够
 具体说明可以参考文章：
 [http://www.wolfbe.com/detail/201611/381.html](http://www.wolfbe.com/detail/201611/381.html)
 
+[スケーラブルな採番とsnowflake](http://kyrt.in/2014/06/08/snowflake_c.html)
 
 生成的ID如下所示：
 
